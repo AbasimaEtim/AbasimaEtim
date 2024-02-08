@@ -6,7 +6,6 @@ My toolbox: Excel, SQL, Power BI, Tableau, and Python. I leverage these tools to
 
 Driven by: a contagious learning spirit, a desire for growth, and a commitment to excellence in the data and business analytics space.
 Open to exciting collaborations.
-You can reach me via abasima340@gmail.com or on LinkedIn @ www.linkedin.com/in/
-abasimaetim
+You can reach me via abasima340@gmail.com or on LinkedIn @ www.linkedin.com/in/abasimaetim
 
 Let's connect and explore how we can achieve amazing things together!
